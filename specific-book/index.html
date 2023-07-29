@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сторінка замовлення книги</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Замовлення книги</h1>
+    </header>
+
+    <main>
+        <section>
+            <img src="book_cover.jpg" alt="Обкладинка книги">
+            <h2>Назва книги</h2>
+            <p>Автор: Ім'я автора</p>
+            <p>Жанр: Жанр книги</p>
+        </section>
+
+        <section>
+            <h2>Інформація про вартість</h2>
+            <label for="quantity">Кількість книг:</label>
+            <div class="quantity-input">
+              <button class="quantity-btn decrease-btn">-</button>
+              <input type="number" id="quantity" name="quantity" min="1" value="1">
+              <button class="quantity-btn increase-btn">+</button>
+            </div>
+
+            <label for="price">Ціна однієї книги:</label>
+            <input type="text" id="price" name="price" readonly>
+
+            <label for="total">Загальна вартість:</label>
+            <input type="text" id="total" name="total" readonly>
+        </section>
+
+        <section>
+            <button type="button" id="orderButton">Замовити</button>
+        </section>
+    </main>
+
+    <script src="main.js"></script> <!-- Підключення main.js -->
+</body>
+</html>

@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+.book-list-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.book-card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.book-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.book-card h2 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.book-card p {
+  margin: 0;
+}
+
+.book-card .price {
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.book-card .description {
+  margin-top: 10px;
+}

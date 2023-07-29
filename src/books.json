@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "author": "J.K. Rowling",
+    "price": 12.99,
+    "image": "/images/harry-potter.jpg",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "shortDescription": "The first book in the Harry Potter series.",
+    "description": "Harry Potter and the Sorcerer's Stone is a fantasy novel written by British author J.K. Rowling. It is the first book in the Harry Potter series and follows the journey of a young wizard, Harry Potter, who discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "id": 2,
+    "author": "George Orwell",
+    "price": 9.99,
+    "image": "/images/1984.jpg",
+    "title": "1984",
+    "shortDescription": "A dystopian novel set in a totalitarian society.",
+    "description": "1984 is a dystopian novel written by English author George Orwell. It takes place in a totalitarian society where the government exercises total control over the lives of its citizens. The story follows the life of Winston Smith, a low-ranking member of the ruling Party, as he begins to question the oppressive regime he lives under."
+  },
+  {
+    "id": 3,
+    "author": "Jane Austen",
+    "price": 18.49,
+    "image": "/images/pride-and-prejudice.jpg",
+    "title": "Pride and Prejudice",
+    "shortDescription": "A classic romantic novel.",
+    "description": "Pride and Prejudice is a classic romantic novel written by Jane Austen. It follows the story of Elizabeth Bennet, a young woman whose wit and intelligence are matched only by her sense of independence. The novel explores themes of love, marriage, and societal expectations in early 19th-century England."
+  },
+  {
+    "id": 4,
+    "author": "Harper Lee",
+    "price": 40.99,
+    "image": "/images/to-kill-a-mockingbird.webp",
+    "title": "To Kill a Mockingbird",
+    "shortDescription": "A classic novel about racial injustice in the American South.",
+    "description": "To Kill a Mockingbird is a classic novel written by Harper Lee. It is set in the American South during the 1930s and deals with themes of racial injustice, moral growth, and compassion. The story follows young Scout Finch as she navigates the challenges of growing up and witnessing her father, Atticus Finch, defend a black man accused of raping a white woman."
+  },
+  {
+    "id": 5,
+    "author": "F. Scott Fitzgerald",
+    "price": 18.49,
+    "image": "/images/the-great-gatsby.jpg",
+    "title": "The Great Gatsby",
+    "shortDescription": "A tragic tale of love and the American Dream.",
+    "description": "The Great Gatsby is a novel written by F. Scott Fitzgerald. It is set in the 1920s and follows the enigmatic millionaire Jay Gatsby as he attempts to win back the love of his life, Daisy Buchanan. The novel explores themes of wealth, excess, and the illusion of the American Dream."
+  },
+  {
+    "id": 6,
+    "author": "Gabriel Garcia Marquez",
+    "price": 13.99,
+    "image": null,
+    "title": "One Hundred Years of Solitude",
+    "shortDescription": "A landmark novel of magical realism.",
+    "description": "One Hundred Years of Solitude is a landmark novel written by Gabriel Garcia Marquez. It is considered one of the most significant works in the genre of magical realism. The story follows the Buendia family over several generations in the fictional town of Macondo. Through their experiences, the novel explores themes of time, history, and the complexity of human existence."
+  },
+  {
+    "id": 7,
+    "author": "Mark Twain",
+    "price": 29.49,
+    "image": "/images/adventures-of-huckleberry-finn.jpg",
+    "title": "Adventures of Huckleberry Finn",
+    "shortDescription": "A classic adventure novel and a scathing satire on racism.",
+    "description": "Adventures of Huckleberry Finn is a classic adventure novel written by Mark Twain. It is the sequel to The Adventures of Tom Sawyer and is noted for its portrayal of the character Jim, an escaped slave, and its criticism of the racist attitudes prevalent in the American South during the 19th century. The novel follows Huck Finn and his friend Jim as they journey down the Mississippi River, facing various challenges and learning about the complexities of human nature."
+  },
+  {
+    "id": 8,
+    "author": "Agatha Christie",
+    "price": 37.99,
+    "image": null,
+    "title": "Murder on the Orient Express",
+    "shortDescription": "A classic detective novel featuring Hercule Poirot.",
+    "description": "Murder on the Orient Express is a classic detective novel written by Agatha Christie. It features the famous Belgian detective Hercule Poirot, who is traveling on the luxurious Orient Express when a murder occurs onboard. Poirot is called upon to solve the case, and the novel takes readers on a thrilling journey of mystery and intrigue."
+  }
+]
